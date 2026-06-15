@@ -1,0 +1,26 @@
+[
+  {
+    "model_name": "Random Forest",
+    "accuracy": 99.78,
+    "precision": 99.79,
+    "recall": 99.8,
+    "f1_score": 99.79,
+    "is_best": false
+  },
+  {
+    "model_name": "XGBoost",
+    "accuracy": 100.0,
+    "precision": 100.0,
+    "recall": 100.0,
+    "f1_score": 100.0,
+    "is_best": true
+  },
+  {
+    "model_name": "LightGBM",
+    "accuracy": 100.0,
+    "precision": 100.0,
+    "recall": 100.0,
+    "f1_score": 100.0,
+    "is_best": false
+  }
+]
